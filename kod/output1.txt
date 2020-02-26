@@ -1,0 +1,52 @@
+30
+[15, 15]
+0.0004 sekundy
+Początek testu algorytmu genetycznego:
+30
+4.7529 sekundy
+30
+4.6236 sekundy
+30
+4.7414 sekundy
+30
+4.7658 sekundy
+30
+4.8378 sekundy
+30
+4.9077 sekundy
+30
+4.9802 sekundy
+30
+4.6792 sekundy
+30
+4.805 sekundy
+30
+4.6447 sekundy
+Koniec testu algorytmu genetycznego.
+Początek testu algorytmu genetycznego CRUSH:
+8
+4.7897 sekundy
+8
+4.7733 sekundy
+8
+4.7646 sekundy
+6
+4.7923 sekundy
+8
+4.8231 sekundy
+6
+4.7206 sekundy
+6
+4.713 sekundy
+7
+4.7054 sekundy
+7
+4.7138 sekundy
+5
+4.7306 sekundy
+
+Wyniki algorytmu gen: [30, 30, 30, 30, 30, 30, 30, 30, 30, 30] 
+Najlepszy wynik gen, to : 30
+
+Wyniki algorytmu genCRUSH: [8, 8, 8, 6, 8, 6, 6, 7, 7, 5] 
+Najlepszy wynik genCRUSH, to : 8
